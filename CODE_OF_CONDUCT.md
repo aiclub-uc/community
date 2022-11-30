@@ -1,6 +1,8 @@
 # El Código de Conducta convenido para Contribuyentes rige a *The Artificial Intelligence Club @ UC*
 Como miembro de nuestra comunidad, desarrollarás y potenciarás tu carrera en Inteligencia Artificial. Tú y otros miembros encaminarán este proceso de la manera más segura y libre de acoso posible. Para asegurar esto, y que todos se sientan cómod@s y bienvenid@s, todo miembro se adhiere a los términos indicados en el Código de Conducta convenido para Contribuyentes, versión 2.0 ([https://www.contributor-covenant.org/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)). El texto completo del código de conducta se encuentra a continuación. Además, **puedes encontrar los pasos para denunciar un incidente al final de este documento.**
 
+# Código de Conducta convenido para Contribuyentes 2.0
+
 ## Nuestro compromiso
 
 Nosotros, como miembros, contribuyentes y administradores nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todo el mundo, independientemente de la edad, dimensión corporal, minusvalía visible o invisible, etnicidad, características sexuales, identidad y expresión de género, nivel de experiencia, educación, nivel socio-económico, nacionalidad, apariencia personal, raza, religión, o identidad u orientación sexual.
